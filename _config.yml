@@ -270,11 +270,21 @@ defaults:
       author_profile: true
       share: true
       comments: true
+
+      # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _projects
-layout: single
-title: "Projects"
-permalink: /projects/
-author_profile: true
+#layout: single
+#title: "Projects"
+#permalink: /projects/
+#author_profile: true
   # _talks
   - scope:
       path: ""
