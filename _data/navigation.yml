@@ -7,14 +7,12 @@ me# The following is the order of the links in the header of the website.
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 
-main:    
+main:
   - title: "CV"
     url: "https://raw.githubusercontent.com/mahdi-ul-bari/mahdi-ul-bari.github.io/1st-commit/files/Mahdi_Ul_Bari_Resume.pdf"
-
+    
   - title: "Projects"
     url: /projects/
-  # - title: "CV"
-  #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+   # url: /markdown/
