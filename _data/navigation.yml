@@ -9,7 +9,7 @@
 
 main:    
   - title: "CV"
-    url: /cv/
+    url:"https://raw.githubusercontent.com/mahdi-ul-bari/mahdi-ul-bari.github.io/1st-commit/files/Mahdi_Ul_Bari_One_Page.pdf"
 
   - title: "Projects"
     url: /projects/
